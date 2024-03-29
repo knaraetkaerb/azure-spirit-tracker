@@ -1,0 +1,26 @@
+{
+  "name": "azure-spirit-tracker",
+  "version": "1.0.0",
+  "description": "Tracks spiritual energies in the azure realms, offering insights into metaphysical data and anomalies.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/azure-spirit-tracker"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "chronos-tide-watcher": "1.0.0",
+    "ether-wind-sculptor": "1.0.0",
+    "cors": "1.0.0",
+    "solc": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "react-dom": "1.0.0",
+    "ganache-cli": "1.0.0"
+  }
+}
